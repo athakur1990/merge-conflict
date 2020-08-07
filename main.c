@@ -2,12 +2,13 @@ pseudo code
 {
 Initial Function()
 {
-  //Sample Code
+ 
+feature updated
 }
 
 feature1()
 {
-  //Sample Code for Feature 1
+hai intellipaat
 }
 
 

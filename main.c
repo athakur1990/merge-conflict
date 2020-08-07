@@ -10,7 +10,4 @@ feature1()
 {
 hai intellipaat
 }
-
-
-
 }
